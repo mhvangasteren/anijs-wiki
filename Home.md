@@ -1,13 +1,14 @@
 Welcome to the AniJS wiki!
 ==========================
 
-AniJS is a declarative handling library for CSS animations. The main objective is to provide an elocuent, readeable, and quick method to develop animations environment.
+AniJS is a declarative handling library for CSS animations. The main objective is to provide an eloquent, readable, and quick method to develop animations environment.
 
 ##Documentation Topics
 
 
 ###Basic Topics
 
+- [[How use it?|How-use-it%3F]]
 - [[Handling Animations|Handling-Animations]]
 - [[Sentence Definitions]]
 
