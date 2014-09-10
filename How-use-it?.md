@@ -36,14 +36,14 @@ and for that you may begin deciding:
 
 Good!, now, using those elements... **How write the anijs setence?**
 
-You can try by completing with those elements the next fragment:
+You can try by completing with those previous elements the next fragment:
 
  **If:** <u>  *Event(click, scroll, mouseover and more)*  </u>, **On:** <u>  *Html element (css selector)*  </u>, **Do:** <u>  *Actions or Animations (Rotate animation)*  </u>, **To:** <u>  *Html element to modify*  </u>
 
-and Finally copy into some html element like the next example.
+and Finally copy the sentence into some html element like the next example.
 
 ```html
 <p data-anijs="if: click, on:h1, do: pulse animated, to:h2"></p>
 ```
 
-That's all! but you can play with anijs sentence a lot of more, keep looking around this site, you'll find more details and more examples, more versatibility for amaze, and a lot of fun in the meantime.
+That's all! but you can play with anijs sentence a lot of more, keep looking around this site, you'll find more details and more examples, more versatility for amaze, and a lot of fun in the meantime.
