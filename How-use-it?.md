@@ -29,11 +29,11 @@ If you do not understand that we are talking about, don't worry continue reading
 
 #### 5. Write the sentence inside any html element:
 
-### 5.1 Using the previous decided elements, complete the sentence:  
+##### 5.1 Using the previous decided elements, complete the sentence:  
 
  **If:** *some event(click, scroll, mouseover and more)*, **On:** *any element (css selector)*, **Do:** *some behavior(Rotate animation)*, **To:** *(any element)*
 
-### 5.2 ...and write it inside any html element (*code, span, p, div*...) like the next example:
+##### 5.2 ...and write it inside any html element (*code, span, p, div*...) like the next example:
 
 ```html
 <p data-anijs="if: click, on:h1, do: pulse animated, to:h2"></p>
