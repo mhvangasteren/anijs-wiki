@@ -21,7 +21,7 @@ For example in our case:
 
 If you do not understand that we are talking about, don't worry continue reading, My first time was hard.
 
-#### 3. Decide:
+#### 4. Decide:
 
  * Which ***Event*** do you want to capture, interact or response on.
 
@@ -29,7 +29,7 @@ If you do not understand that we are talking about, don't worry continue reading
 
  * Which ***Actions or Animations*** do over those elements.
 
-#### 4. Write the sentence inside any html element:
+#### 5. Write the sentence inside any html element:
 
  Using the previous decided elements, complete the sentence:  
 
