@@ -17,8 +17,7 @@ For example in our case:
 <p data-anijs="if: click, on:h1, do: pulse animated, to:h2"></p>
 ```
 
-If you do not understand that we are talking about, don't worry continue reading, My first time was hard.
-
+-----------------------
 
 <u>Lets make a little more closer look...
 </u>
