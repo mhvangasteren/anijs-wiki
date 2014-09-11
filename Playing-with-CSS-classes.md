@@ -23,14 +23,12 @@ Like the next examples:
 
 - Simple Class
 ```html
-<div data-anijs="if: click, on: .tab, do: $toggleClass active, to: .navbar">
+<input data-anijs="if: click, on: .tab, do: $toggleClass active, to: .navbar">
 ```
 
 - Multiple Class
 ```html
-<div data-anijs="if: click, on: .tab, do: $addClass open primary-color, to: modal">
+<div data-anijs="if: click, on: .tab, do: $addClass open primary-color, to: modal"></div>
 ```
 
-- Check a real world example
-
-http://codepen.io/darielnoel/full/FvCbx/
+- Check a real world example on [codepen](http://codepen.io/darielnoel/full/FvCbx/)
