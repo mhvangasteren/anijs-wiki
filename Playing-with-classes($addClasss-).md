@@ -1,7 +1,7 @@
 ### **How put or remove classes to the html elements?**
 
 
-**1- First, include the libraries...:**
+**1- First, include ...**
 
 ```html
 <!--The core library-->
@@ -31,6 +31,6 @@ Like the next examples:
 <div data-anijs="if: click, on: .tab, do: $addClass open primary-color, to: modal">
 ```
 
-- Check a real life example
+- Check a real world example
 
 http://codepen.io/darielnoel/full/FvCbx/
