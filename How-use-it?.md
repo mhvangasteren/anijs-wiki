@@ -16,6 +16,7 @@ For example in our case:
 ```html
 <p data-anijs="if: click, on:h1, do: pulse animated, to:h2"></p>
 ```
+Check the [example](http://codepen.io/darielnoel/pen/trnzk?editors=100) 
 
 -----------------------
 
