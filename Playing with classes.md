@@ -14,7 +14,7 @@
 <link rel="stylesheet" href="animate.css">
 ```
 
-**3- Then inside the anijs sentence... **
+**3- Then inside the anijs sentence...**
 
 You can use the words: 
 
