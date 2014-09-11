@@ -8,13 +8,13 @@
 <script src="anijs-min.js"></script>
 ```
 
-2. ...and the auxiliar stylesheet of your preference:
+2. and the auxiliar stylesheet of your preference:
 
 ```
 <link rel="stylesheet" href="animate.css">
 ```
 
-2. Then inside the anijs sentence... 
+3. Then inside the anijs sentence... 
 
 You can use the words: 
 
