@@ -3,7 +3,7 @@
 - [[How use it? | How-use-it?]]
 - [[Handling Animations|Handling-Animations]]
 - [[Sentence Definitions]]
-
+- [[Playing with CSS classes | Playing-with-CSS-classes]]
 
 
 ###Advanced Topics
