@@ -4,6 +4,7 @@
 - [[Handling Animations|Handling-Animations]]
 - [[Sentence Definitions]]
 - [[Playing with CSS classes | Playing-with-CSS-classes]]
+- [[The-current-element | Refer-to-the-current-element]]
 
 
 ###Advanced Topics
