@@ -8,7 +8,7 @@ The basic anijs sentence its like this general form:
 Example:
 
 ```xml
-<div class="demo1" data-anijs="if: click, do: $toggleClass hidden, to: .container-box"></div>
+<div data-anijs="if: click, do: $toggleClass red, to: .box"></div>
 ```
 
 ###The formal language definition
