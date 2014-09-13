@@ -1,9 +1,7 @@
 ###Basic Topics
 
 - [[How use it? | How-use-it?]]
-
-##### The AniJS Language
-- [[Handling Animations|Handling-Animations]]
+- [[AniJS Lenguage | The-lenguage]]
 - [[Sentence Definitions]]
 - [[Playing with CSS classes | Playing-with-CSS-classes]]
 - [[The current element | Refer-to-the-current-element]]
