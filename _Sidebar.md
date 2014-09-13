@@ -1,7 +1,7 @@
 ###Basic Topics
 
 - [[How use it? | How-use-it?]]
-- [[AniJS Lenguage | The-lenguage]]
+- [[AniJS Lenguage | The-language]]
 - [[Sentence Definitions]]
 - [[Playing with CSS classes | Playing-with-CSS-classes]]
 - [[The current element | Refer-to-the-current-element]]
