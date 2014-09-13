@@ -2,7 +2,7 @@ Welcome to the AniJS wiki!
 ==========================
 
 AniJS is a declarative handling library for UI interactions. 
-It provides a easy and quick method for  prototyping and developing UI interfaces.
+It provides an easy and quick method for  prototyping and developing UI interfaces.
 
 ##Documentation Topics
 
