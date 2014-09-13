@@ -9,7 +9,7 @@ AniJS is a declarative handling library for CSS animations. The main objective i
 ###Basic Topics
 
 - [[How use it?|How-use-it?]]
-- [[Handling Animations|Handling-Animations]]
+- [[The AniJS Language| The-language]]
 - [[Sentence Definitions]]
 - [[Playing with CSS classes|Playing-with-CSS-classes]]
 - [[The current element|Refer-to-the-current-element]]
