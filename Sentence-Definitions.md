@@ -4,6 +4,7 @@ Sentence Definitions
 For managging an animation correctly the following parameters must be stablished in some of the HTML elements.
 
 ##### If
+##### If
 Indicates the event trigger for the animation. You may check a detailed list of events [here](https://developer.mozilla.org/en-US/docs/Web/Reference/Events).
 
 Some of the events are shown below as guide examples:
