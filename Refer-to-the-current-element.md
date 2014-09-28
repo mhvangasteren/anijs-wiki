@@ -1,7 +1,5 @@
 ####How refer to the current element?
 
-##### clone #####
-
 Using the word: ***target*** like the next example:
 
 > "if click, on some li, do addClass hidden, to the clicked li"
