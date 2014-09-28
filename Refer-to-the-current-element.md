@@ -11,3 +11,4 @@ Using the word: ***target*** like the next example:
 ```
 
 Inside anijs sentence, you can refer to the element that triggered the event (A kind of "this" in respect of the event...) by using the word: ***target***
+
