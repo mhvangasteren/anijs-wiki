@@ -1,39 +1,43 @@
 Welcome to the AniJS wiki!
 ==========================
 
-AniJS is a declarative handling library for UI interactions. 
-It provides an easy and quick method for  prototyping and developing UI interfaces.
+AniJS is a declarative handling library for UI interactions.
+It provides an easy and quick method for prototyping and developing UI interfaces.
 
 ##Documentation Topics
 
 
 ###Basic Topics
 
-- [[How use it?|How-use-it?]]
-- [[The AniJS Language| The-language]]
-- [[Sentence Definitions]]
-- [[Playing with CSS classes|Playing-with-CSS-classes]]
-- [[The current element|Refer-to-the-current-element]]
+- [[Get started | How-use-it?]]
+- [[The AniJS Sentence | The-language]]
+- [[Sentence and Definitions | Sentence-Definitions]]
+- [[Playing with CSS classes | Playing-with-CSS-classes]]
+- [[Clone and remove html elements | Clone-and-remove]]
+- [[Selecting html elements | Selecting-html-elements]]
+- [[Referring to the current element | Refer-to-the-current-element]]
+- [[Emitting your own events is easy | emit ]]
 
 
+###Advanced AniJS
 
-
-###Advanced Topics
-
+- [[AnimationEnd and TransitionEnd normalization]]
+- [[Registering new Helpers]]
+- [[Animation Context Instance | Animation Context Object]]
 - [[Writing before and after functions]]
 - [[Remove animation after function]]
 - [[Hold animation after function]]
-- [[Registering new Helpers]]
 - [[Listening events from document and window]]
-- [[AnimationEnd and TransitionEnd normalization]]
 - [[Add default class names while Anim]]
 - [[Changing travel scope]]
+- [[Creating Events Systems]]
+- [[Custom Events Listening]]
 - [[Purge Events]]
 - [[Handling Animations Using JavaScript]]
-- [[Animation Context Instance | Animation Context Object]]
 - [[Running AniJS repeatedly | Running-AniJS-repeatedly]]
-- [[Custom Events Listening]]
-- [[Creating Events Systems]]
 - [[JQuery Events System]]
 - [[Using AMD | Using-amd]]
-- [[Test Cases]]
+
+
+#Changelog
+- [[Deprecated]]
