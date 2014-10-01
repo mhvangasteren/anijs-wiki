@@ -1,12 +1,12 @@
 ###Basic Topics
 
 - [[Get started | How-use-it?]]
-- [[The AniJS Sentence | The-language]]
+- [[The AniJS Language | The-language]]
 - [[Sentence and Definitions | Sentence-Definitions]]
 - [[Playing with CSS classes | Playing-with-CSS-classes]]
-- [[Clone and remove html elements | Clone-and-remove]]
-- [[Selecting html elements | Selecting-html-elements]]
 - [[Referring to the current element | Refer-to-the-current-element]]
+- [[Selecting html elements | Selecting-html-elements]]
+- [[Clone and remove html elements | Clone-and-remove]]
 - [[Emitting your own events is easy | emit ]]
 
 
@@ -28,6 +28,7 @@
 - [[Running AniJS repeatedly | Running-AniJS-repeatedly]]
 - [[JQuery Events System]]
 - [[Using AMD | Using-amd]]
+
 
 #Changelog
 - [[Deprecated]]
