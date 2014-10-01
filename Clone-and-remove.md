@@ -46,9 +46,9 @@ More helper functions
 
 ##### clone #####
 
-    _Duplicates html elements. This function can take one or more parameters separated by "|" as follows: param1 | param2 | paramN ..._
+   _Duplicates html elements. This function can take one or more parameters separated by "|" as follows: param1 | param2 | paramN ..._
 
-    <u>Examples:</u>
+   <u>Examples:</u>
 
 ```xml
   <!-- Clones current HTML element and append it as child of the same element's parent. -->
