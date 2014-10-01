@@ -4,9 +4,9 @@
 - [[The AniJS Language | The-language]]
 - [[Sentence and Definitions | Sentence-Definitions]]
 - [[Playing with CSS classes | Playing-with-CSS-classes]]
-- [[Referring to the current element | Refer-to-the-current-element]]
-- [[Selecting html elements | Selecting-html-elements]]
 - [[Clone and remove html elements | Clone-and-remove]]
+- [[Selecting html elements | Selecting-html-elements]]
+- [[Referring to the current element | Refer-to-the-current-element]]
 - [[Emitting your own events is easy | emit ]]
 
 
