@@ -1,8 +1,9 @@
 Welcome to the AniJS wiki!
 ==========================
 
-AniJS is a declarative handling library for UI interactions.
-It provides an easy and quick method for prototyping and developing UI interfaces.
+AniJS is a UI interaction Library for Web Designers in plain English.
+
+_It provides an easy and quick method for prototyping and developing UI interfaces._
 
 ##Documentation Topics
 
@@ -10,12 +11,12 @@ It provides an easy and quick method for prototyping and developing UI interface
 ###Basic Topics
 
 - [[Get started | How-use-it?]]
-- [[The AniJS Sentence | The-language]]
+- [[The AniJS Language | The-language]]
 - [[Sentence and Definitions | Sentence-Definitions]]
 - [[Playing with CSS classes | Playing-with-CSS-classes]]
-- [[Clone and remove html elements | Clone-and-remove]]
-- [[Selecting html elements | Selecting-html-elements]]
 - [[Referring to the current element | Refer-to-the-current-element]]
+- [[Selecting html elements | Selecting-html-elements]]
+- [[Clone and remove html elements | Clone-and-remove]]
 - [[Emitting your own events is easy | emit ]]
 
 
