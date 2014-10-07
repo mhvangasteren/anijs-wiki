@@ -3,7 +3,7 @@ We are very pleased to announce the [AniJS library](http://anijs.github.io/) lat
 The new main powerful features are:
 
 - [CSS selectors with steroids](https://github.com/anijs/anijs/wiki/Selecting-html-elements).
-- [Add, Remove and Toggle Classes](https://github.com/anijs/anijs/wiki/Playing-with-CSS-classes).
+- [Add, remove and toggle classes](https://github.com/anijs/anijs/wiki/Playing-with-CSS-classes).
 - [Remove and clone html elements](https://github.com/anijs/anijs/wiki/Clone-and-remove).
 
 Now, using the standard [AniJS](http://anijs.github.io/) syntax (if,on,do,to) the people can make not only animations, with the new version we want to reinforce a underlying and nevertheless essential concept: **INTERACTIVITY**. 
