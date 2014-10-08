@@ -14,6 +14,6 @@ The library leaves the door opens also to javascript developers, by providing th
 
 A lot of new examples was added, [notification app](http://codepen.io/darielnoel/full/EdueI/), [accordion](http://codepen.io/darielnoel/full/qvGEb/), [tabbar](http://codepen.io/darielnoel/full/uJLGb/), [modal](http://codepen.io/darielnoel/full/vpBhy/), and [others](http://anijs.github.io/#intro). 
 
-We have special interest to share this announcement extensive to the community.
+We have special interest to share this announcement with the community.
 
 Best Regards, AniJS Community
