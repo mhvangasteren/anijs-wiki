@@ -25,3 +25,6 @@ https://saucelabs.com/scout/live/722392571f5846ad911a221ef04610ac
 
 **IE10:**
 https://saucelabs.com/scout/live/5c85aa4ffcdc4138ba8bf11a76476508
+
+**IE9:**
+https://saucelabs.com/scout/live/050d096716d5497c8f549fe41d495ea7
