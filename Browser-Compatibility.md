@@ -8,12 +8,20 @@ AniJS was tested on numerous browsers and devices. Here's the rundown on what's 
 | Chrome                | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | Firefox               | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | Safari                | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
-| IE11                  | :white_check_mark: | Content Cell  | Content Cell  | Content Cell  | Content Cell |
-| IE10                  | :white_check_mark: | Content Cell  | Content Cell  | Content Cell  | Content Cell |
-| IE9                   | :broken_heart:  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| IE11                  | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
+| IE10                  | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
+| IE9                   | :broken_heart:     | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | IE8                   | :broken_heart:  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
 | iOS (iPhone)          | Content Cell    | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
 | iOS (iPad)            | Content Cell    | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
 | Android 2, 4 (Phone)  | Content Cell    | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
 | Android 2, 4 (Tablet) | Content Cell    | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
 | Windows Phone 7+      | Content Cell    | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+
+**Safari:** https://saucelabs.com/scout/live/e8320dcc8c244d5888c81edb3a8ee080
+
+**IE11:**
+https://saucelabs.com/scout/live/722392571f5846ad911a221ef04610ac
+
+**IE10:**
+https://saucelabs.com/scout/live/5c85aa4ffcdc4138ba8bf11a76476508
