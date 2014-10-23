@@ -11,7 +11,7 @@ AniJS was tested on numerous browsers and devices. Here's the rundown on what's 
 | IE11                  | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | IE10                  | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | IE9                   | :broken_heart:     | :white_check_mark: | :white_check_mark: | :white_check_mark: |
-| IE8                   | :broken_heart:  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| IE8                   | :broken_heart:     | :broken_heart:     | :broken_heart:     | :broken_heart:     |
 | iOS (iPhone)          | Content Cell    | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
 | iOS (iPad)            | Content Cell    | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
 | Android 2, 4 (Phone)  | Content Cell    | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
@@ -28,3 +28,5 @@ https://saucelabs.com/scout/live/5c85aa4ffcdc4138ba8bf11a76476508
 
 **IE9:**
 https://saucelabs.com/scout/live/050d096716d5497c8f549fe41d495ea7
+
+**iOS (iPhone):**
