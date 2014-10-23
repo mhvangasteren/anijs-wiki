@@ -8,6 +8,7 @@
 - [[Selecting html elements | Selecting-html-elements]]
 - [[Referring to the current element | Refer-to-the-current-element]]
 - [[Emitting your own events is easy | emit ]]
+- [[ Browser Compatibility | Browser-Compatibility]]
 
 
 ###Advanced AniJS
