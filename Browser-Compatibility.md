@@ -12,11 +12,10 @@ AniJS was tested on numerous browsers and devices. Here's the rundown on what's 
 | IE10                  | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | IE9                   | :broken_heart:     | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | IE8                   | :broken_heart:     | :broken_heart:     | :broken_heart:     | :broken_heart:     |
-| iOS (iPhone)          | Content Cell    | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| iOS (iPad)            | Content Cell    | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| Android 2, 4 (Phone)  | Content Cell    | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| Android 2, 4 (Tablet) | Content Cell    | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| Windows Phone 7+      | Content Cell    | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| iOS (iPhone)          | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
+| iOS (iPad)            | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
+| Android 2, 4 (Phone)  | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
+| Android 2, 4 (Tablet) | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 
 **Safari:** https://saucelabs.com/scout/live/e8320dcc8c244d5888c81edb3a8ee080
 
@@ -30,3 +29,10 @@ https://saucelabs.com/scout/live/5c85aa4ffcdc4138ba8bf11a76476508
 https://saucelabs.com/scout/live/050d096716d5497c8f549fe41d495ea7
 
 **iOS (iPhone):**
+https://saucelabs.com/scout/live/6c7177c35de54c7fbdf8c8974581a004
+
+**iOS (iPad):**
+https://saucelabs.com/scout/live/df5093adfa78416c8a8c700a3c7ba2ef
+
+**Android 2, 4 (Phone)**
+https://saucelabs.com/scout/live/59b5dcc77b3b40a48ded7a343d1ee4ae
