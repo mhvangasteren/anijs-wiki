@@ -1,5 +1,4 @@
-Handling Animations Using JavaScript
-=====================================
+## Handling Animations Using JavaScript
 
 You can create animation directly in Javascript using the function **createAnimation**.
 

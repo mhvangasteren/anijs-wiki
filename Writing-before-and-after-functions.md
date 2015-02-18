@@ -1,5 +1,4 @@
-Writing before and after functions
-==================================
+## Writing before and after functions
 
 The **before** and **after** definitions are useful when you want to execute actions before or after the action specified in **do** ends.  
 

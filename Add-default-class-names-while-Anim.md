@@ -1,5 +1,5 @@
-Add default class names while Anim
-==================================
+## Add default class names while Anim
+
 
 Sometimes it can be necesary to add class names to know if an object it's being animated. In case of [animate.css library](http://daneden.github.io/animate.css/) the class name used is **animated**.
 

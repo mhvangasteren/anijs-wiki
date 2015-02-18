@@ -1,9 +1,8 @@
-The AniJS Language
-==========================
+## The AniJS Language
 
 The basic anijs sentence its like this general form:
 
-**If** <u> *some event(click, scroll, [etc](https://developer.mozilla.org/en-US/docs/Web/Events))* </u>, **On** <u> *any element (css selector)* </u>, **Do** <u> *some behavior(animation, $addClass, $remove, [etc](#))* </u>, **To**  <u> *(any element)* </u>.
+**If** *some event(click, scroll, [etc](https://developer.mozilla.org/en-US/docs/Web/Events))*, **On** *any element (css selector)*, **Do** *some behavior(animation, $addClass, $remove, etc)*, **To** *(any element)*.
 
 Example:
 
@@ -13,7 +12,7 @@ Example:
 
 Every time the user clicks on the element with this sentence written, the red color will be switched in the elements with the "box" class established.
 
-###Formal language definition
+### Formal language definition
 
 ```
 data-anijs  -> Sentence 1; ... ; Sentence n

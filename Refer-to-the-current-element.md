@@ -1,7 +1,7 @@
-The current element
-==========================
+## The current element
 
-####How refer to the current element?
+
+### How refer to the current element?
 
 Using the word: ***target*** like the next example:
 
@@ -12,6 +12,4 @@ Using the word: ***target*** like the next example:
   <li>Hidden me</li>
 </ul>
 ```
-
-
 Inside anijs sentence, you can refer to the element that triggered the event (A kind of "this" in respect of the event...) by using the word: ***target***

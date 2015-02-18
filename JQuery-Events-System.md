@@ -1,13 +1,10 @@
-JQuery Events System
-============================================
-
-
-The JQuery Events System is a concrete implementation of the [[Events System Interface | Creating Events Systems]].
+## JQuery Events System
+The JQuery Events System is a concrete implementation of the [Events System Interface](Creating Events Systems).
 
 
 You can see a [Codepen Example](http://codepen.io/darielnoel/pen/nltiL?editors=001) you must read bellow first.
 
-#####Use
+### Use
 
 - Include Scripts
 

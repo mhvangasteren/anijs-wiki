@@ -1,5 +1,4 @@
-Changing travel scope
-==========================
+## Changing travel scope
 
 By default AniJs takes as its travel scope from the **document**. To change it, call the **.setDOMRootTravelScope** and [[run AniJS again | Running-AniJS-repeatedly]].
 

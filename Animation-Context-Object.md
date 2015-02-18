@@ -1,5 +1,4 @@
-Animation Context Object
-============================================
+## Animation Context Object
 
 Animation Context Object is the object that can control the execution arguments of an animation, and the animation execution itself asynchronously. 
 

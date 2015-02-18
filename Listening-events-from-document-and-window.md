@@ -1,5 +1,4 @@
-Listening events from document and window
-=========================================
+##Listening events from document and window
 
 If you want to execute some action, for example, an animation, when any **document** event is triggered such as DOMContentLoaded you just need to put in the **on** definition the reserved word "document".
 
@@ -22,7 +21,7 @@ Example:
 <!-- ... -->
 </header>
 ```
-#onRunFinished Event
+### onRunFinished Event
 
 Added since v0.5.0 version.
 

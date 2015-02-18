@@ -1,7 +1,5 @@
-Helper functions for selecting
-===================================
-
-##Which helpers you can use for selecting html elements?
+## Helper functions for selecting
+### Which helpers you can use for selecting html elements?
 
 * _[parent](#parent)_
 * _[ancestors](#ancestors)_
@@ -9,11 +7,11 @@ Helper functions for selecting
 * _[find](#find)_
 * _[children](#children)_
 
-##How use them?
+### How use them?
 
 _You can use them as part of the AniJS sentence, inside the "**to:** " definition. They can receive as parameter a CSS Selector or the word [[target | Refer-to-the-current-element]]. Here you can find several examples for each case._
 
-###1. First, include ...
+#### 1. First, include ...
 
 ```xml
   <!--The core library-->
@@ -23,14 +21,13 @@ _You can use them as part of the AniJS sentence, inside the "**to:** " definitio
   <script src="anijs-helper-dom-min.js"></script>
 ```
 
-###2. Then inside the anijs sentence...
+#### 2. Then inside the anijs sentence...
 
-##### parent #####
+###### parent
 
 _Returns an element's parent. This function takes one parameter at most. As parameter you can use a CSS Selector or the word [[target | Refer-to-the-current-element]]._
 
-<u>Examples:</u>
-
+Examples:
 
 ```xml
   <!-- Removes the parent of the 'actual' div tag 
@@ -45,11 +42,11 @@ _Returns an element's parent. This function takes one parameter at most. As para
 ```
 
 
-##### ancestors #####
+###### ancestors
 
 _Returns element's ancestors of the omitted or specified element, optionally filtered by a selector. This function takes at most two parameters._
 
-<u>Examples:</u>
+Examples:
 
 
 ```xml
@@ -69,11 +66,11 @@ _Returns element's ancestors of the omitted or specified element, optionally fil
 ```
 
 
-##### closest #####
+###### closest
 
 _Returns the closest ancestor of the omitted or specified element, optionally filtered by a selector, this function takes at most two parameters_
 
-<u>Examples:</u>
+Examples:
 
 
 ```xml
@@ -88,7 +85,7 @@ _Returns the closest ancestor of the omitted or specified element, optionally fi
       <div data-anijs="if: click, on: li, do: $remove, to: $closest .primary"> </div>
 ```
 
-##### find #####
+###### find
 
 _Returns descendant elements, of the omitted or specified element, optionally filtered by a selector, this function takes at most two parameters_
 
@@ -105,11 +102,11 @@ _Returns descendant elements, of the omitted or specified element, optionally fi
       <div data-anijs="if: click, on: li, do: $remove, to: $find .primary"> </div>
 ```
 
-##### children #####
+###### children
 
 _Returns the childrens, of the omitted or specified element, optionally filtered by a selector, this function takes at most two parameters_
 
-<u>Examples:</u>
+Examples:
 
 
 ```xml
@@ -122,4 +119,3 @@ _Returns the childrens, of the omitted or specified element, optionally filtered
   <!-- Removes childrens of the 'actual' div tag. Specifically those having the class name: primary -->
       <div data-anijs="if: click, on: li, do: $remove, to: $children .primary"> </div>
 ```
-

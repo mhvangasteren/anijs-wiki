@@ -1,3 +1,4 @@
+## CSS animation definitions
 AniJS allows you to handle [CSS3 animations](http://www.sitepoint.com/build-awesome-apps-with-css3-animations/) easily, you just need to **include** the animation styles definition, and after that you can play with **data-anijs** tag. 
 
 ```xml
@@ -13,7 +14,7 @@ AniJS allows you to handle [CSS3 animations](http://www.sitepoint.com/build-awes
 
 We **strongly recomend** you to use the amazing [Animate.css library](http://daneden.github.io/animate.css/) as starting point, this library provides beautiful animations.
 
-##Using Animate.css library
+### Using Animate.css library
 
 ```xml
 <head>
@@ -28,7 +29,7 @@ We **strongly recomend** you to use the amazing [Animate.css library](http://dan
 
 **Note:** Remember to add the **animated** css class  when you are using the  Animated.css library.
 
-##Tips an Tricks
+### Tips an Tricks
 
 If you want to run the animation only once just add **holdAnimClass** to the **after** definition.
 

@@ -1,12 +1,10 @@
-Custom Events Listening
-============================================
-
+## Custom Events Listening
 
 AniJS allows to execute the actions in "**do**" definition, using customized events as a trigger. You can create your own events and attach the actions to them.
 
 You can see a [Codepen Example](http://codepen.io/darielnoel/pen/KzsFn?editors=001) but you must read bellow first.
 
-#####Advantages
+### Advantages
 
 - Cross-browser events.
 - Integrate touch gestures.
@@ -42,7 +40,7 @@ Examples
      <div data-anijs="if: Double-tap, on: $GestureEventProvider, do: $clone"> If you "Double-tap" here, this sentence will be cloned. </div>
 ```
 
-#####Getting the EventProvider Object
+### Getting the EventProvider Object
 
 
 After AniJS has ran, you can obtain an specific EventProvider through the **getEventProvider** method, that use the EventProvider ID as a parameter(the same that was established on the definition).
@@ -54,7 +52,7 @@ Example:
 MyApp.GestureEventProvider = AniJS.getEventProvider('GestureEventProvider');
 ```
 
-#####Triggering events
+### Triggering events
 
 
 You can use the **dispatchEvent** method to trigger any previously specified event.
@@ -65,7 +63,7 @@ Example:
 MyApp.GestureEventProvider.dispatchEvent('Double-tap');
 ```
 
-#####Other useful methods
+### Other useful methods
 
 - addEventListener
 	

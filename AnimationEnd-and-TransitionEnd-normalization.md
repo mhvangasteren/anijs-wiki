@@ -1,6 +1,4 @@
-AnimationEnd and TransitionEnd normalization
-============================================
-
+## AnimationEnd and TransitionEnd normalization
 The AnimationEnd and TransitionEnd events varies depending on the browser.
 
 | Agent   | AnimationEnd Event | TransitionEnd Event |  

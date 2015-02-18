@@ -1,5 +1,4 @@
-Registering new Helpers
-==========================
+## Registering new Helpers
 
 A helper is a static class which contains the functions that can be invoked through the **before** and **after** definitions.
 

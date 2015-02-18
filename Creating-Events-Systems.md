@@ -1,5 +1,4 @@
-Creating Events Systems
-============================================
+## Creating Events Systems
 
 
 The Events System as a concept describes an event handling interface. Through this concept we can allow  AniJS to manage the events from other libraries, such as JQuery. Take a look to [[JQuery Events System]].
@@ -17,7 +16,7 @@ You can create your own Events System overwriting the default AniJS Event System
 - removeEventListenerHelper
 
 
-#####isEventTarget
+### isEventTarget
 
 ```javascript
 /**
@@ -37,7 +36,7 @@ AniJS.EventSystem.isEventTarget: function(element) {
 }
 ```
 
-#####createEventTarget
+### createEventTarget
 
 ```javascript
 /**
@@ -56,7 +55,7 @@ AniJS.EventSystem.createEventTarget: function() {
 }
 ```
 
-#####addEventListenerHelper
+### addEventListenerHelper
 
 ```javascript
 /**
@@ -79,7 +78,7 @@ AniJS.EventSystem.addEventListenerHelper: function(eventTargetItem, event, liste
 }
 ```
 
-#####removeEventListenerHelper
+### removeEventListenerHelper
 
 ```javascript
 /**

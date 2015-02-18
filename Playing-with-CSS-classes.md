@@ -1,7 +1,6 @@
-Helper functions
-====================
+## Helper functions
 
-### **How put or remove classes in the html elements?**
+### How put or remove classes in the html elements?
 
 **1- First, include ...**
 

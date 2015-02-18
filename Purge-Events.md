@@ -1,5 +1,4 @@
-Purge Events
-==========================
+## Purge Events
 
 Using **purge** you can clean the attached events of any node that you want.
 
