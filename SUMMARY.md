@@ -1,5 +1,5 @@
 # Summary
 
 * [Introduction](README.md)
-* Getting started
+* [Getting started](How-use-it_.md)
 
