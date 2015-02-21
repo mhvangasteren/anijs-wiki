@@ -1,37 +1,50 @@
-anijs.wiki.repository
-=====================
+# Welcome to the AniJS wiki!
 
-## Description
-The AniJS wiki documentation code.
+AniJS is a UI interaction Library for Web Designers in plain English.
 
-## Contribution Steps
+_It provides an easy and quick method for prototyping and developing UI interfaces._
 
-- Pull last Wiki changes updates
+## Documentation Topics
 
-```bash
-git pull wiki master
-```
 
-- Push last changes to this repository
+### Basic Topics
 
-```bash
-git push origin master
-```
+- [Get started](How-use-it?)
+- [The AniJS Language](The-language)
+- [Sentence and Definitions](Sentence-Definitions)
+- [Playing with CSS classes](Playing-with-CSS-classes)
+- [[Clone and remove html elements | Clone-and-remove]]
+- [[Selecting html elements | Selecting-html-elements]]
+- [[Referring to the current element | Refer-to-the-current-element]]
+- [[Emitting your own events is easy | emit ]]
+- [[ Browser Compatibility | Browser-Compatibility]]
 
-- Push last changes to wiki
+### Advanced AniJS
 
-```bash
-git push wiki master
-```
+- [[AnimationEnd and TransitionEnd normalization]]
+- [[Registering new Helpers]]
+- [[Animation Context Instance | Animation Context Object]]
+- [[Writing before and after functions]]
+- [[Remove animation after function]]
+- [[Hold animation after function]]
+- [[Listening events from document and window]]
+- [[Add default class names while Anim]]
+- [[Changing travel scope]]
+- [[Creating Events Systems]]
+- [[Custom Events Listening]]
+- [[Purge Events]]
+- [[Handling Animations Using JavaScript]]
+- [[Running AniJS repeatedly | Running-AniJS-repeatedly]]
+- [[JQuery Events System]]
+- [[Using AMD | Using-amd]]
 
-- Fork this repository
 
-```bash
-git clone git@github.com:anijs/anijs.wiki.repository.git
-```
+### Changelog
+- [[Deprecated]]
 
-- Add wiki repository as remote
-
-```bash
-git remote add wiki git@github.com:anijs/anijs.wiki.git
-```
+### Appendices
+- CSS animation definitions
+- Including AniJS library
+- Hold animation after function
+- Installation
+- jQuery Events System
