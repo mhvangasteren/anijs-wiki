@@ -10,5 +10,5 @@
 * [Refer-to-the-current-element.md](Refer-to-the-current-element.md)
 * [emit.md](emit.md)
 * [Browser-Compatibility.md](Browser-Compatibility.md)
-* AnimationEnd-and-TransitionEnd-normalization.md
+* [AnimationEnd-and-TransitionEnd-normalization.md](AnimationEnd-and-TransitionEnd-normalization.md)
 
