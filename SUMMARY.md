@@ -9,5 +9,5 @@
 * [Selecting html elements](Selecting html elements.md)
 * [Refer-to-the-current-element.md](Refer-to-the-current-element.md)
 * [emit.md](emit.md)
-* Browser-Compatibility.md
+* [Browser-Compatibility.md](Browser-Compatibility.md)
 
