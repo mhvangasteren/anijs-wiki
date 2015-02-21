@@ -6,5 +6,5 @@
 * [Sentence Definitions](sentence-definitions.md)
 * [CSS classes](Playing-with-CSS-classes.md)
 * [Clone and remove](Clone-and-remove.md)
-* Selecting html elements
+* [Selecting html elements](Selecting html elements.md)
 
