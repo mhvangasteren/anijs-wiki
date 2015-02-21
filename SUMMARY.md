@@ -7,4 +7,5 @@
 * [CSS classes](Playing-with-CSS-classes.md)
 * [Clone and remove](Clone-and-remove.md)
 * [Selecting html elements](Selecting html elements.md)
+* Refer-to-the-current-element.md
 
